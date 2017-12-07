@@ -9,6 +9,11 @@
  Use the compound assignment operator (`+=`) to add `home` to `introduction` below. Print the value of `introduction`.
  */
 var introduction = "I live in"
+let city = "Almaty"
+let state = "California"
+let home = city + state
+let stupidthing = introduction + home
+
 
 
 /*:
