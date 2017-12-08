@@ -23,8 +23,17 @@ print(initialVariable)
  
  Print the balance of your piggy bank after each step.
  */
-
-
+var piggyBank : Double = 0
+piggyBank += 10
+print(piggyBank)
+piggyBank += 20
+print(piggyBank)
+piggyBank *= 0.5
+print(piggyBank)
+piggyBank *= 3
+print(piggyBank)
+piggyBank += -3
+print(piggyBank)
 
 
 
