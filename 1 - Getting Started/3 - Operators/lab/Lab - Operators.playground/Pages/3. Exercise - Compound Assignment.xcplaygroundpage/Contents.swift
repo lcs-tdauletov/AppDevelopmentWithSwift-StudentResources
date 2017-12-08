@@ -3,6 +3,13 @@
  
  Declare a variable whose value begins at 10. Using addition, update the value to 15 using the compound assignment operator. Using multiplication, update the value to 30 using compound assignment. Print out the variable's value after each assignment.
  */
+var initialVariable = 10
+print(initialVariable)
+initialVariable += 5
+print(initialVariable)
+initialVariable *= 2
+print(initialVariable)
+
 
 
 /*:
