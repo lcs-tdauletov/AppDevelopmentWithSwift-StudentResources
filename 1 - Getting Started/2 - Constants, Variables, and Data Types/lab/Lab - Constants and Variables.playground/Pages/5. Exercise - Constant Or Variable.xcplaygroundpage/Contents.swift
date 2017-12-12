@@ -10,6 +10,16 @@
  
  For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
  */
+var numberOfLikes : Int = 0 // That's the only number I receive in my IG
+
+var numberOfComments : Int = 250 // A lot of people comment under my posts, but nobody likes
+
+let yearofCreation = 2017
+
+let monthOfCreation = 12
+
+let dayOfCreation = 9
+
 
 
 

@@ -11,6 +11,15 @@
  - Goal number of steps: The user's goal for number of steps to take each day
  - Average heart rate: The user's average heart rate over the last 24 hours
  */
+let name = "The daughter of Computer"
+print("String suits the best because it's a rare situation when a person decides to actually change his/her name")
+var age : Int  = 18
+print("In the given context, the age criteria can be ambiguous, but I chose it to be a vatiable, because age is constantly changing")
+let  numberOfStepsTakenToday = 9999
+print("This one is ambivalent too, but at that particular day, The daughter of Computer onlu made a fixed number of steps")
+let goalNumberOfSteps = 10000
+let averageHeartRate = 200 // She's consistently stressed
+
 
 
 
