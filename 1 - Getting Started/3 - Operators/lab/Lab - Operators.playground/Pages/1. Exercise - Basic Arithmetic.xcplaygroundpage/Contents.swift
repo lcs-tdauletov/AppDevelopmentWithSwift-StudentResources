@@ -7,7 +7,7 @@
  let height = 30
  let area = width*height
  print(area)
-
+ 
 /*:
  You decide that you'll divide your shed into two rooms. You want to know if dividing it equally will leave enough room for some of your larger storage items. Create a `roomArea` constant that is the result of dividing `area` in half. Print out the result.
  */
